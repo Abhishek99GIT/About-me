@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abhishek Kolloju and I'm passionate and driven Computer Science student from GITAM University HYD. I love to learn all about great technologies that are used to create real world applications. I believe technology makes impossible: "i m possible!".</p>
+<p align="left">My name is Abhishek Kolloju. I'm a passionate and driven Computer Science student from GITAM University HYD. I love to learn all about great technologies that are used to create real world applications. I believe technology makes anything impossible to: "i m possible!" :).</p>
 
 ###
 
