@@ -53,6 +53,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhishek99GIT/Abhishek99GIT/output/snake.svg" alt="Snake animation" />
-
 ###
