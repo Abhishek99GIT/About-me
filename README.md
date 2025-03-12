@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 4 long years<br>📚 I'm currently learning AWS, Express.JS, DevOP's.<br>🎯 Goals: Become a Web-Dev/Dev-Ops Expert</p>
+<p align="left">✨ Creating bugs since 4 long years<br>📚 I'm currently learning AWS, and React Native.<br>🎯 Goals: Become an effcient Web-Dev/App-Dev/Dev-Ops Expert</p>
 
 ###
 
