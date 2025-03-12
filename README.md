@@ -1,4 +1,4 @@
-<h1 align="left">Hey Dude. What's up? Need any help? Go Ahead, Ask me!</h1>
+<h1 align="left">Hey, What's up? Want to build something together? Go Ahead, Ask me!</h1>
 
 ###
 
